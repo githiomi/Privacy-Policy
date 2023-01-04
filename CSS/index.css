@@ -16,6 +16,12 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.pageHeader{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .pageTitle{
     padding: 25px;
     text-transform: uppercase;
