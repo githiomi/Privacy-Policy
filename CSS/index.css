@@ -16,14 +16,13 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.pageHeader{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.companyLogo{
+    width: 200px;
+    height: 180px;
 }
 
 .pageTitle{
-    padding: 25px;
+    padding: 25px 10px;
     text-transform: uppercase;
     text-align: center;
     font-weight: bold;
@@ -67,6 +66,7 @@
     background-color: white;
     border-top: 1px solid grey;
     padding: 20px 0;
+    text-align: center;
 }
 
 .footerNameLink{
